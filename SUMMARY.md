@@ -1,3 +1,6 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+# Networking 101
+
+* [Primer on Latency and Bandwidth](chapter1.md)
+

@@ -1,3 +1,2 @@
-# My Awesome Book
-
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+# High Performance Browser Networking
+This is a collection of my notes from the book [High Performance Browser Networking](https://hpbn.co).
